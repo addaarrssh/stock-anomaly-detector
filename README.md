@@ -3,7 +3,7 @@
 A machine learning web app that detects unusual price and volume behaviour in NSE-listed Indian stocks using Isolation Forest.
 
 ## Live Demo
-[Click here to open the app](#)
+[Click here to open the app](https://stock-anomaly-detector-azed3b9shjzwceqlbykqhd.streamlit.app/)
 
 ## What it does
 
